@@ -1,0 +1,5 @@
+I have received help from an online tutor from the website chegg.com with this project to help understand and complete the tasks based on requirements that i was unable to complete on my own.
+
+In regards to our conversation earlier today, I am resubmitting my milestone 6, as the extension was given after i had already submitted it. 
+
+i have chosen the open submission as my milestone 6 cannot output the tester output completely from the document provided. i appreciate the opportunity to go back and fix errors, however, i was unable to fix the program 100%. i submitted milestones 1- 5 on time and with appropriate comments; i did not make any changes to the other files, i just referenced back to other cpp files for debugging ideas.  

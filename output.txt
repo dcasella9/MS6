@@ -1,0 +1,153 @@
+Script started on Tue 08 Aug 2017 10:57:15 PM EDT
+dcasella@matrix:~/OOP244/MS6> fp
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 1
+ Row | SKU    | Product Name       | Cost  | Qty| Unit     |Need| Expiry
+-----|--------|--------------------|-------|----|----------|----|----------
+   1 | 132    |Banana              |   0.99|   6|Kilos     |  10|2015/05/13
+   2 | 122    |Bucket              |  11.30| 150|          | 300|
+   3 | 200    |Sand Bags           |   3.38|  20|packs     |1000|
+   4 | 111    |Water Container     |  12.79| 500|packs     |5000|
+---------------------------------------------------------------------------
+Total cost of support: $8164.31
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 2
+Please enter the SKU: 132
+
+Sku: 132
+Name: Banana
+Price: 0.99
+Price after tax: N/A
+Quantity On Hand: 6 Kilos
+Quantity Needed: 10
+Expiry date: 2015/05/13
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 2
+Please enter the SKU: 1111
+
+Not found!
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 3
+Sku: 1234
+Name: Tent
+Unit: 
+n/a   n/a
+Taxed? (y/n): y
+Price: 120.33
+Quantity On hand: 20
+Quantity Needed: 200
+
+Product added
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 4
+Sku: 2345
+Name: Flu Vaccine
+Unit: Boxes
+Taxed? (y/n): n
+Price: 12.34
+Quantity On hand: 0
+Quantity Needed: 5000
+Expiry date (YYYY/MM/DD): 2018/12/12
+
+Product added
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 1
+ Row | SKU    | Product Name       | Cost  | Qty| Unit     |Need| Expiry
+-----|--------|--------------------|-------|----|----------|----|----------
+   1 | 132    |Banana              |   0.99|   6|Kilos     |  10|2015/05/13
+   2 | 122    |Bucket              |  11.30| 150|          | 300|
+---------------------------------------------------------------------------
+Total cost of support: $1700.94
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 5
+Please enter the SKU: 1234
+Not found!
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 1
+ Row | SKU    | Product Name       | Cost  | Qty| Unit     |Need| Expiry
+-----|--------|--------------------|-------|----|----------|----|----------
+   1 | 132    |Banana              |   0.99|   6|Kilos     |  10|2015/05/13
+   2 | 122    |Bucket              |  11.30| 150|          | 300|
+---------------------------------------------------------------------------
+Total cost of support: $1700.94
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchase products
+0- Exit program
+> 0
+Goodbye!!
+dcasella@matrix:~/OOP244/MS6> exit
+exit
+
+Script done on Tue 08 Aug 2017 11:00:00 PM EDT
